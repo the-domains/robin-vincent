@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robin Vincent]]></title>
+        <description><![CDATA[Robin Vincent]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 12:36:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9cf34c1-a81e-4e77-8542-e201b96ebf0f.jpg">]]></description>
+            <link>undefinedrobin-vincent-is-a-musician-writer-and-veteran-of-the-compu/index.html</link>
+            <guid isPermaLink="false">1718e847-9368-4ff7-8ee7-db5ce3ed38c9</guid>
+            <pubDate>Thu, 12 May 2016 12:35:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
