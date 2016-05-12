@@ -4,8 +4,15 @@
         <description><![CDATA[Robin Vincent]]></description>
         <link>https://thegrid.ai/robin-vincent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 12:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 13:00:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robin-vincent/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9cf34c1-a81e-4e77-8542-e201b96ebf0f.jpg">]]></description>
+            <link>https://thegrid.ai/robin-vincent/robin-vincent-is-a-musician-writer-and-veteran-of-the-compu/index.html</link>
+            <guid isPermaLink="false">1718e847-9368-4ff7-8ee7-db5ce3ed38c9</guid>
+            <pubDate>Thu, 12 May 2016 13:00:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Surface Pro 4 - First Impressions for Music Production - Surface Pro Audio]]></title>
             <description><![CDATA[<article><h1>Surface Pro 4 - First Impressions for Music Production - Surface Pro Audio</h1><p>Welcome to the beginning of our Surface Pro 4 journey. I wanted to let you know what the plan is, rough out a bit of a schedule and introduce you to my first impressions of the Surface Pro 4. I started this project because I believed the Microsoft Surface was the portable music making computer ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3430fa26b451184b2345cb930b7e4ab79fb3024.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://surfaceproaudio.com/surface-pro-4-mega-test-music-production/</link>
             <guid isPermaLink="false">dcb9893e-a172-4048-b29f-87529cd22ca9</guid>
             <pubDate>Thu, 12 May 2016 12:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9cf34c1-a81e-4e77-8542-e201b96ebf0f.jpg">]]></description>
-            <link>https://thegrid.ai/robin-vincent/robin-vincent-is-a-musician-writer-and-veteran-of-the-compu/index.html</link>
-            <guid isPermaLink="false">1718e847-9368-4ff7-8ee7-db5ce3ed38c9</guid>
-            <pubDate>Thu, 12 May 2016 12:35:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
