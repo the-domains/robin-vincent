@@ -4,11 +4,18 @@
         <description><![CDATA[Robin Vincent]]></description>
         <link>https://thegrid.ai/robin-vincent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 12:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 12:57:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robin-vincent/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Running Virtual Instruments on the Surface Pro 4 featuring Arturia V Collection]]></title>
+            <description><![CDATA[<article><h1>Running Virtual Instruments on the Surface Pro 4 featuring Arturia V Collection</h1><p>How well do virtual instruments run on the Surface Pro 4? I threw the Arturia V Collection at the Surface to see what would happen - the results were pretty interesting. http://www.surfaceproaudio.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/489de0a7ab7b4342273a2ec738aeb96e/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FLPqls-3WLxY%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=LPqls-3WLxY</link>
+            <guid isPermaLink="false">daa6f209-cbcc-4387-97f3-b149811e035e</guid>
+            <pubDate>Wed, 24 Aug 2016 12:57:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Noodling in Reaktor Blocks on the Surface with Novation Circuit - Surface Pro Audio]]></title>
-            <description><![CDATA[<article><h1>Noodling in Reaktor Blocks on the Surface with Novation Circuit - Surface Pro Audio</h1><p>I've been working on getting deeper into Reaktor Blocks and integrating it with external gear. I want to show how great touch works with the modular parts of Reaktor. It becomes it's own instrument. You don't have to mess about with a mouse, just get your fingers in there.</p><img src="http://surfaceproaudio.com/wp-content/uploads/2016/07/reaktor-noodle-thumb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Noodling in Reaktor Blocks on the Surface with Novation Circuit - Surface Pro Audio</h1><p>I've been working on getting deeper into Reaktor Blocks and integrating it with external gear. I want to show how great touch works with the modular parts of Reaktor. It becomes it's own instrument. You don't have to mess about with a mouse, just get your fingers in there.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ac018d034c36247e5de236b049dbd62/noop.jpg?input=http%3A%2F%2Fsurfaceproaudio.com%2Fwp-content%2Fuploads%2F2016%2F07%2Freaktor-noodle-thumb.jpg"></article>]]></description>
             <link>http://surfaceproaudio.com/noodling-reaktor-blocks-surface-novation-circuit/</link>
             <guid isPermaLink="false">5dc008d7-1116-4e33-bd6e-ef7e8f726cc8</guid>
             <pubDate>Wed, 24 Aug 2016 12:53:29 GMT</pubDate>
