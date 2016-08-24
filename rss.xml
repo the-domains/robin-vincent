@@ -4,8 +4,15 @@
         <description><![CDATA[Robin Vincent]]></description>
         <link>https://thegrid.ai/robin-vincent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 12:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 13:02:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robin-vincent/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9cf34c1-a81e-4e77-8542-e201b96ebf0f.jpg">]]></description>
+            <link>https://thegrid.ai/robin-vincent/robin-vincent-is-a-musician-writer-and-veteran-of-the-compu/index.html</link>
+            <guid isPermaLink="false">1718e847-9368-4ff7-8ee7-db5ce3ed38c9</guid>
+            <pubDate>Wed, 24 Aug 2016 13:02:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Running Virtual Instruments on the Surface Pro 4 featuring Arturia V Collection]]></title>
             <description><![CDATA[<article><h1>Running Virtual Instruments on the Surface Pro 4 featuring Arturia V Collection</h1><p>How well do virtual instruments run on the Surface Pro 4? I threw the Arturia V Collection at the Surface to see what would happen - the results were pretty interesting. http://www.surfaceproaudio.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/489de0a7ab7b4342273a2ec738aeb96e/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FLPqls-3WLxY%2Fmaxresdefault.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://moltenmusictech.com/molten-music-monthly-april-2016-musikmesse-special</link>
             <guid isPermaLink="false">6798f181-5303-4edb-86dc-8e3907dc463f</guid>
             <pubDate>Thu, 12 May 2016 19:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9cf34c1-a81e-4e77-8542-e201b96ebf0f.jpg">]]></description>
-            <link>https://thegrid.ai/robin-vincent/robin-vincent-is-a-musician-writer-and-veteran-of-the-compu/index.html</link>
-            <guid isPermaLink="false">1718e847-9368-4ff7-8ee7-db5ce3ed38c9</guid>
-            <pubDate>Thu, 12 May 2016 13:02:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Surface Pro 4 - First Impressions for Music Production - Surface Pro Audio]]></title>
